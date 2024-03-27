@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ARRAY_EX_10 {
+module ARRAY_EX_11 {
 }
