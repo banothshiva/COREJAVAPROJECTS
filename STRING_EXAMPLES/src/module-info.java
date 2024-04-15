@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module STRING_EXAMPLES {
-}
